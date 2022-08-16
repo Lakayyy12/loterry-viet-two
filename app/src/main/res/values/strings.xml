@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Xổ số Bình Phước</string>
+    <string name="splash_screen">splash_screen</string>
+    <string name="back_button" />
+
+    <string name="desc1">Việt Nam là một quốc gia thuộc thế giới thứ ba ở châu Á phụ thuộc đáng kể vào đầu tư nước ngoài.
+        Bởi vì đây là một quốc gia nghèo khó, công dân chỉ được phép đánh bạc tiền của họ tại các giải xổ số do nhà nước quản lý.
+        Hội đồng xổ số miền Nam, Hội đồng xổ số miền Bắc và Hội đồng xổ số miền Trung là ba bộ phận chính của Xổ số kiến thiết quốc gia trực thuộc Bộ Tài chính.</string>
+
+    <string name="desc2">Chọn một trò chơi hoàn hảo trong số hàng ngàn giải xổ số trên khắp thế giới có thể là một điều đáng sợ nếu bạn không biết bắt đầu từ đâu,
+        nhưng một khi bạn hiểu những điều cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+
+    <string name="desc3">Cách đơn giản nhất để chọn số xổ số của bạn là sử dụng tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên.
+        Nếu bạn có một con số may mắn yêu thích, bạn nên kiểm tra số liệu thống kê.</string>
+
+    <string name="desc4">Mặc dù tùy chọn này vẫn có sẵn, nhưng những ngày mua vé số độc quyền trong các cửa hàng đã không còn nữa.
+        Phương thức thuận tiện nhất là mua vé trựctuyến.
+        Nhiều xổ số chính thức cung cấp vé trực tuyến thông qua các trang web hoặc ứng dụng di động,
+        nhưng bạn phải là công dân của quốc gia được đề cập để tham gia.</string>
+
+    <string name="desc5">Nhiều cuộc rút thăm xổ số được phát trên truyền hình, mặc dù việc kiểm tra các con số trên trang web hoặc ứng dụng di động có thể thuận tiện hơn.
+        Mỗi xổ số có thời gian quay thưởng riêng và bạn có thể chơi trong đêm khuya khoắt nếu chơi trực tuyến từ một múi giờ khác.</string>
+
+    <string name="desc6">Bạn đã kiểm tra kỹ số của mình và nhận ra mình đã trúng giải! Xin chúc mừng. Thủ tục nhận giải thưởng của bạn rất đơn giản.
+Hãy nhớ rằng mọi xổ số đều có thời hạn thanh toán, trong khoảng từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc tự động
+        chuyển cho bạn khi bạn chơi trực tuyến.</string>
+
+    <string name="desc7">Xổ số truyền thống Việt Nam đã trở nên phổ biến trong nhiều năm và hiện là một trong những trò tiêu khiển phổ biến nhất của đất nước.
+        Nó là khá đơn giản để mua và chơi.
+        Những người bán súng trường có thể được tìm thấy rất nhiều trên khắp các đường phố của Việt Nam. Bạn có thể dễ dàng mua vé với giá 10.000 đồng
+        (khoảng 50 xu) một vé. Người bán vé giữ 10% giá vé, tính ra mỗi vé khoảng 2.000 đồng. Do đó, đừng bị sốc nếu họ bán vé với giá cao hơn vào dịp nào đó.
+        Họ chỉ đơn giản muốn kiếm nhiều tiền hơn để đáp ứng nhu cầu hàng ngày của họ.</string>
+
+    <string name="desc8">Hơn nữa, việc bán xổ số ở Việt Nam đang gặp nhiều khó khăn. Vì người bán phải bán hết ve trước 3 giờ chiều. mỗi ngày,
+        vì kết quả được công bố lúc 4 giờ chiều. 63 tỉnh thành sẽ công bố giải thưởng hàng ngày từ 100.000 đến 2 tỷ đồng vào thời điểm đó.
+Phần lớn người bán hàng ở Việt Nam là người cao tuổi, người khuyết tật và những người khác vì mức lương thấp và lao động khó khăn.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="bgt1">1. Trò chơi xổ số</string>
+    <string name="bgt2">2. Trò chơi xổ số các chữ số</string>
+    <string name="bgt3">3. Trò chơi rút thăm nhanh</string>
+    <string name="bgt4">4. Xổ số Việt Nam: Cách chơi</string>
+    <string name="bgt5">5. Làm thế nào để yêu cầu xổ số</string>
+    <string name="bgt6">6. Scandals Xổ số ở Việt Nam</string>
+    <string name="bgt7">7. Chọn một xổ số để tham gia.</string>
+    <string name="bgt8">8. Chọn số của bạn.</string>
+    <string name="bgt9">9. Mua vé </string>
+    <string name="bgt10">10. Hãy yêu cầu phần thưởng của bạn.</string>
+
+
+    <string name="bg1"> Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+    <string name="bg2">Đây là một loại hình xổ số hiện đại hơn khá phổ biến trên toàn thế giới. Con số này đóng góp khoảng 7% tổng thu nhập từ xổ số của Việt Nam. Người chơi chọn các số từ 0 đến 9 để tạo ra kết hợp chiến thắng trong loại hình xổ số này.</string>
+    <string name="bg3">Trò chơi xổ số nhanh này, còn được gọi là Keno trên khắp thế giới, là trò chơi được người Việt Nam yêu thích, chiếm khoảng 6% tổng thu nhập từ xổ số. Bởi vì nó cung cấp các hình vẽ thường xuyên hơn, nó được những người chơi xổ số nghiêm túc ưa thích.
+Mặc dù cơ cấu giải thưởng khác nhau, trò chơi rút thăm nhanh rất đơn giản để chơi. Người chơi chỉ cần chọn những con số yêu thích của họ và số tiền họ muốn đặt cược. Họ phải đặt cược trước khi bắt đầu rút thăm. Bởi vì việc rút thăm có thể diễn ra trong vài phút, không có gì lạ khi nhìn thấy những người chơi xổ số xếp hàng dài trong các quầy xổ số.</string>
+    <string name="bg4">Kết quả của xổ số Việt Nam được quyết định bởi kết quả quay số của công ty xổ số. Tổng công ty "Hà Nội" có 27 chuỗi số, trong khi các công ty khác chỉ có 18. Bạn phải ghi các chuỗi số và loại cược khi đặt cược vào một tờ vé số. Bạn giành được giải thưởng liên quan nếu bạn đặt cược vào chuỗi số thích hợp ở đúng vị trí.</string>
+    <string name="bg5">Bạn làm gì bây giờ mà bạn có 57 triệu đồng để đòi? Đầu tiên và quan trọng nhất, hãy giữ sạch vé xổ số của bạn. Không được có vết bẩn, mất màu hoặc rách. Bạn chỉ có 30 ngày để nhận phần thưởng của mình, vì vậy hãy đảm bảo bạn làm điều đó càng sớm càng tốt. Hãy nhớ rằng tiền sẽ được chính phủ trao cho bạn bằng tiền mặt hoặc chuyển khoản ngân hàng. Chọn chuyển khoản ngân hàng nếu bạn muốn an toàn. Nếu bạn chưa làm như vậy, hãy mở một tài khoản ngân hàng tại Việt Nam trước khi nhận giải thưởng của mình.</string>
+    <string name="bg6">Mặc dù tất cả các loại hình xổ số của Việt Nam đều là của nhà nước, nhưng họ không tránh khỏi những tai tiếng và rắc rối. Hội đồng Xổ số kiến thiết miền Nam, đại diện cho 21 doanh nghiệp xổ số nhỏ của Việt Nam, đã đệ đơn tố cáo Vietlott với cáo buộc điều hành xổ số bất hợp pháp. Hội đồng đã yêu cầu Bộ Tài chính mở một cuộc điều tra.</string>
+    <string name="bg7">Chọn một trò chơi phù hợp trong số hàng ngàn giải xổ số trên khắp thế giới có thể khó khăn nếu bạn không biết bắt đầu từ đâu, nhưng một khi bạn hiểu những điều cơ bản, bạn sẽ tự tin vào quyết định của mình.</string>
+    <string name="bg8">Cách đơn giản nhất để chọn số xổ số của bạn là sử dụng tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên. Nếu bạn có một con số may mắn yêu thích, bạn nên kiểm tra số liệu thống kê.</string>
+    <string name="bg9">Mặc dù tùy chọn này vẫn có sẵn, nhưng những ngày mua vé số độc quyền trong các cửa hàng đã không còn nữa. Phương thức thuận tiện nhất là mua vé trực tuyến. Nhiều xổ số chính thức cung cấp vé trực tuyến thông qua trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập để tham gia.</string>
+    <string name="bg10">Bạn đã kiểm tra kỹ số của mình và nhận ra mình đã trúng giải! Xin chúc mừng. Thủ tục nhận giải thưởng của bạn rất đơn giản.
+Hãy nhớ rằng mọi xổ số đều có thời hạn thanh toán, trong khoảng từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc tự động chuyển cho bạn khi bạn chơi trực tuyến.</string>
+
+    <string name="abt1">ết quả của xổ số Việt Nam được quyết định bởi kết quả quay số của công ty xổ số. Tổng công ty "Hà Nội" có 27 chuỗi số,
+        trong khi các công ty khác chỉ có 18. Bạn phải ghi các chuỗi số và loại cược khi đặt cược vào một tờ vé số. Bạn giành được giải thưởng liên quan
+        nếu bạn đặt cược vào chuỗi số thích hợp ở đúng vị trí.
+    Số xổ số là chỉ số quan trọng nhất vì nó quyết định bạn có vé trúng thưởng hay không.
+Mỗi tờ vé số có sáu chữ số và được xổ số vào mỗi buổi chiều. Kết quả được hiển thị tại các quầy xổ số và cũng có thể được xem trực tuyến.</string>
+
+    <string name="abt2">Công ty Xổ số điện toán Việt Nam (Vietlott) được thành lập năm 2011 theo Quyết định 1109 / QĐ-TTG của Thủ tướng Chính phủ và được Bộ Tài chính quản
+        lý theo Quyết định số 2933 / QĐ-BTC. Đây là công ty duy nhất của Việt Nam là thành viên chính thức
+        của cả Hiệp hội Xổ số Thế giới (WLA) và Hiệp hội Xổ số Châu Á Thái Bình Dương (APLA) (ALPA).
+Vietlott đã bố trí nhiều trò chơi và hình thức hoạt động khác nhau trên toàn quốc, tuân theo quy định của Việt Nam.
+Vietlott ghi nhận những đóng góp đáng kể của họ trong việc phát triển ngành giải trí hiện nay và giảm thiểu hoạt động xổ số bất hợp pháp. Vietlott cũng cam
+        kết dành tặng một phần lợi nhuận cho người dân Việt Nam. Họ đầu tư vào các dịch vụ y tế, giáo dục và xã hội để nâng cao đời sống của người dân đồng thời
+        cung cấp việc làm cho hàng nghìn người dân địa phương.</string>
+
+    <string name="abt3">Kể từ khi xổ số đầu tiên được chơi (giữa năm 205 và 187 trước Công nguyên), chúng tôi đã tiến tới một thời điểm mà mọi người trên thế giới đều có
+        thể tham gia vào bất kỳ loại hình xổ số toàn cầu nào. Chỉ cần thiết bị có kết nối internet. Đó là điều thúc đẩy chúng tôi vì chúng tôi tin tưởng vào những tiến bộ
+        của công nghệ. Nếu không có nó, rất có thể bạn sẽ xem nội dung này trên điện thoại thông minh của mình. Bây giờ bạn có thể chơi thực tế bất kỳ xổ số nào trên thế giới,
+        bất kể bạn đến từ đâu. Chúng tôi ở đây để hỗ trợ bạn và cung cấp mọi thông tin cần thiết.
+        Hãy bắt đầu ước mơ lớn, vì giải thưởng xổ số thế giới rất lớn và sẽ có người chiến thắng vào cuối ngày. Luôn thận trọng và có trách nhiệm</string>
+
+<string name="abtt1">GIỚI THIỆU XỔ SỐ 1</string>
+    <string name="abtt2">VỀ XỔ SỐ 2</string>
+    <string name="abtt3">VỀ XỔ SỐ 3</string>
+
+
+
+    <string name="close_button" />
+</resources>
